@@ -8,5 +8,7 @@ In this project, you will analyze the results of an A/B test and create a report
 * Analyze the A/B test results using statistical methods in spreadsheets.
 * Create a written report of the A/B test results.
 
-  ## Link of visualization:
+  ## Link to tableau:
   https://public.tableau.com/app/profile/md.tauhidul.haque.naime/viz/GloboxHypothesisABtesting/KPIDashboard
+  ## Link to google spreadsheet:
+  https://docs.google.com/spreadsheets/d/1eIzUgo1O_OKkeKI7NyUJxsSXv9WZ8_purCkZqRft1Mk/edit#gid=314109923
